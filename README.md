@@ -1,1 +1,1 @@
-# Horizon-domain.-GitHub.-io
+# Horizon-domain.GitHub.io
