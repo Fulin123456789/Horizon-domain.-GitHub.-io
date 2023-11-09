@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>整合包</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+  <!-- 页面头部 -->
+  <header>
+    <h1>融易整合2.1</h1>
+    <nav>
+      <ul>
+        <li><a href="https://space.bilibili.com/650586741?spm_id_from=333.1007.0.0">演示视频</a></li>
+        <li><a href="https://fulin147.GitHub.io">反馈意见</a></li>
+        <li><a href="#">声明</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- 主要内容 -->
+  <main>
+    <p class="intro">链接：<a href="https://pan.baidu.com/s/1XUW8iA1RrTvd7b-Mv3Uixg?pwd=e99y">点击下载整合包</a></p>
+    <div class="features">
+      <h2>整合包特色</h2>
+      <ul>
+        <li>最新的mco动作系统</li>
+        <li>精致的韩网美化</li>
+        <li>众多好看的捏脸</li>
+        <li>冒险者公会</li>
+        <li>强大的boss</li>
+        <li>丰富的怪物种类</li>
+        <li>警戒者和艺术馆任务扩展</li>
+        <li>数十个各具特色的随从以及智能随从</li>
+        <li>强大的神器和众多武器以及盔甲</li>
+      </ul>
+    </div>
+  </main>
+
+  <!-- 页面底部 -->
+  <footer>
+    <p>&copy; 2021 融易整合</p>
+  </footer>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</body>
+</html>
